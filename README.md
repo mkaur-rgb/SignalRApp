@@ -48,6 +48,7 @@ The Program.cs file configures the app and serves static files.
 Frontend:
 
 The index.html file connects to the SignalR Hub and enables real-time messaging.
+💡 Contributions and feedback are welcome! 🚀
 
 📌 Conclusion
 
