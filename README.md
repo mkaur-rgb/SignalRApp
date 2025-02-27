@@ -48,8 +48,10 @@ The Program.cs file configures the app and serves static files.
 Frontend:
 
 The index.html file connects to the SignalR Hub and enables real-time messaging.
-💡 Contributions and feedback are welcome! 🚀
+
 
 📌 Conclusion
 
 This SignalR application enables real-time messaging between clients. If you encounter issues, ensure CORS is correctly configured, index.html is inside wwwroot/, and the frontend connects to the right port.
+
+💡 Contributions and feedback are welcome! 🚀
