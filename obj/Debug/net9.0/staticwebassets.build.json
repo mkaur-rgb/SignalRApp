@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "jcysYqIgqROnE3jopKaHwHVL5kT4CBMDfvklYDHChe8=",
+  "Source": "SignalRApp",
+  "BasePath": "_content/SignalRApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalRApp/wwwroot",
+      "Source": "SignalRApp",
+      "ContentRoot": "/Users/manpreetkaur/Projects/SignalRApp/wwwroot/",
+      "BasePath": "_content/SignalRApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/manpreetkaur/Projects/SignalRApp/obj/Debug/net9.0/compressed/3ax2wl6p3z-j4z3o50xsb.gz",
+      "SourceId": "SignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/manpreetkaur/Projects/SignalRApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/SignalRApp",
+      "RelativePath": "index#[.{fingerprint=j4z3o50xsb}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/manpreetkaur/Projects/SignalRApp/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7rg2gpr8i5",
+      "Integrity": "rXqriZkkSEfuAG3EOSxCqncAbQABku2eviC5S7e1grk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/manpreetkaur/Projects/SignalRApp/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/manpreetkaur/Projects/SignalRApp/wwwroot/index.html",
+      "SourceId": "SignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/manpreetkaur/Projects/SignalRApp/wwwroot/",
+      "BasePath": "_content/SignalRApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j4z3o50xsb",
+      "Integrity": "k2C9RwTSocoZZqH+gUbbBLPdz9sy45dA0BYMlx3TJ30=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/manpreetkaur/Projects/SignalRApp/obj/Debug/net9.0/compressed/3ax2wl6p3z-j4z3o50xsb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001381215470"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "723"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rXqriZkkSEfuAG3EOSxCqncAbQABku2eviC5S7e1grk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:26:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"k2C9RwTSocoZZqH+gUbbBLPdz9sy45dA0BYMlx3TJ30=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k2C9RwTSocoZZqH+gUbbBLPdz9sy45dA0BYMlx3TJ30="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/manpreetkaur/Projects/SignalRApp/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k2C9RwTSocoZZqH+gUbbBLPdz9sy45dA0BYMlx3TJ30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:26:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k2C9RwTSocoZZqH+gUbbBLPdz9sy45dA0BYMlx3TJ30="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/manpreetkaur/Projects/SignalRApp/obj/Debug/net9.0/compressed/3ax2wl6p3z-j4z3o50xsb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "723"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rXqriZkkSEfuAG3EOSxCqncAbQABku2eviC5S7e1grk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:26:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rXqriZkkSEfuAG3EOSxCqncAbQABku2eviC5S7e1grk="
+        }
+      ]
+    },
+    {
+      "Route": "index.j4z3o50xsb.html",
+      "AssetFile": "/Users/manpreetkaur/Projects/SignalRApp/obj/Debug/net9.0/compressed/3ax2wl6p3z-j4z3o50xsb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001381215470"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "723"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rXqriZkkSEfuAG3EOSxCqncAbQABku2eviC5S7e1grk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:26:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"k2C9RwTSocoZZqH+gUbbBLPdz9sy45dA0BYMlx3TJ30=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j4z3o50xsb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k2C9RwTSocoZZqH+gUbbBLPdz9sy45dA0BYMlx3TJ30="
+        }
+      ]
+    },
+    {
+      "Route": "index.j4z3o50xsb.html",
+      "AssetFile": "/Users/manpreetkaur/Projects/SignalRApp/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k2C9RwTSocoZZqH+gUbbBLPdz9sy45dA0BYMlx3TJ30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:26:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j4z3o50xsb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k2C9RwTSocoZZqH+gUbbBLPdz9sy45dA0BYMlx3TJ30="
+        }
+      ]
+    },
+    {
+      "Route": "index.j4z3o50xsb.html.gz",
+      "AssetFile": "/Users/manpreetkaur/Projects/SignalRApp/obj/Debug/net9.0/compressed/3ax2wl6p3z-j4z3o50xsb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "723"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rXqriZkkSEfuAG3EOSxCqncAbQABku2eviC5S7e1grk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:26:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j4z3o50xsb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rXqriZkkSEfuAG3EOSxCqncAbQABku2eviC5S7e1grk="
+        }
+      ]
+    }
+  ]
+}
